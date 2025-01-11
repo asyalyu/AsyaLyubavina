@@ -226,6 +226,9 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
+jupyter_notebook:
+       prompt: true
+
 # Sitemap settings
 defaults:
   - scope:
